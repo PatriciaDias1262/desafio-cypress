@@ -39,4 +39,3 @@ As evidências de execução (prints e vídeos) são geradas ao executar o proje
 
 ```bash
 npx cypress run
-``

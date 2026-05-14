@@ -31,3 +31,12 @@ npm install
 2. Execute o Cypress em modo interativo:
 ```bash
 npx cypress open
+````
+
+## Evidências
+
+As evidências de execução (prints e vídeos) são geradas ao executar o projeto em modo headless:
+
+```bash
+npx cypress run
+``

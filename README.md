@@ -31,7 +31,7 @@ npm install
 2. Execute o Cypress em modo interativo:
 ```bash
 npx cypress open
-````
+```
 
 ## Evidências
 

@@ -17,5 +17,13 @@ module.exports = defineConfig({
       return config;
     },
     baseUrl: "https://www.automationexercise.com",
+
+    screenshotsFolder: "evidencias/ui",
+    videosFolder: "evidencias/videos",
+    downloadsFolder: "evidencias/downloads",
+
+    video: true,
+    screenshotOnRunFailure: true,
+    trashAssetsBeforeRuns: false,
   },
 });
